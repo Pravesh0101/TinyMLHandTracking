@@ -1,6 +1,3 @@
-Sure! Here is a README file for your GitHub repository:
-
----
 
 # Intelligent Gesture-Controlled Lighting System Using TinyML
 
